@@ -1,0 +1,156 @@
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#top{
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.emphasizedText{
+   font-style: italic; 
+   Font-size: 65px;
+   color:black
+}
+
+.body{
+    background-color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 15px solid black;
+    margin:18px;
+    Padding:20px;  
+    text-align:center;
+
+}
+
+ol{
+    list-style-position:inside ;
+}
+ul{
+    list-style-position:inside ;
+    text-align: center ;
+}
+.common{
+    text-align: Center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:34px;
+    color:darkblue;
+
+}
+.header{
+    height: 100px;
+    background-color: white;
+    color: black;
+    line-height: 100px;
+    text-align: center;
+    font-size: 77px;
+}
+.mainbody{
+    background-color: whitesmoke;
+
+}
+.footer{
+    background-color:antiquewhite;
+    color: black;
+    height:25px;
+    position: fixed;
+    bottom :0px;
+    right:5px;
+    left:5px;
+}
+.img{
+    display: Block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 56%;
+    height:auto;
+    
+
+}
+
+
+nav a {
+    float:left;
+    color:black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight:bold; 
+    text-align: center;
+
+}
+nav a:hover{
+    background-color:whitesmoke;
+}
+
+.videoDES{
+    margin-left:auto;
+    margin-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    text-align:auto;
+
+
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div{
+    background-color:lightcyan;
+    display: Block; 
+    text-align:center;
+    width:auto;
+    height:auto;
+    
+}
+#area2{
+    background-color:lightgoldenrodyellow;
+    display: Block; 
+    text-align:center;
+
+    width:auto;
+    height:auto;
+
+}
+#area3{
+    background-color:whitesmoke;
+    display: Block; 
+    text-align:center;
+
+    width:auto;
+    height:auto;
+
+}
+#area4{
+    background-color:navajowhite;
+    display: Block; 
+    text-align:center;
+
+    width:auto;
+    height:auto;
+
+}
+#area5{
+    background-color:lightgray;
+    display: Block; 
+    text-align:center;
+    width:auto;
+    height:auto;  
+}
+
+#pages{
+    height: 100px;
+    background-color: white;
+    color: ivory;
+    line-height: 100px;
+    text-align: center;
+    font-size: 77px;
+
+
+}
